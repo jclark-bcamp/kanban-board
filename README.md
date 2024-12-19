@@ -1,9 +1,9 @@
 # Kanban Board
 
 ## User Story
-AS A member of an agile team
-I WANT a Kanban board with a secure login page
-SO THAT I can securely access and manage my work tasks 
+AS A member of an agile team<br>
+I WANT a Kanban board with a secure login page<br>
+SO THAT I can securely access and manage my work tasks<br>
 
   ## Description
   This Kanban Board helps users manage and keep track of tasks. Some examples of users abilities: create, edit, and delete tasks for optimal customization and organization.
