@@ -9,13 +9,13 @@ SO THAT I can securely access and manage my work tasks<br>
   This Kanban Board helps users manage and keep track of tasks. Some examples of users abilities: create, edit, and delete tasks for optimal customization and organization.
 
   ## Installation
-  PostgreSQL
+  PostgreSQL<br>
   Node
 
   ## Usage
-  To run the application locally:
-    1. npm run seed
-    2. npm run start
+  To run the application locally:<br>
+    1. npm run seed<br>
+    2. npm run start<br>
   
   Access the application by visiting http://localhost:3001
 
